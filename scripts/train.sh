@@ -1,0 +1,1 @@
+/usr/bin/python3 main.py -t train -m adv_autoencoder
